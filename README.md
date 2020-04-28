@@ -75,3 +75,7 @@ After swapping  we get
 After swapping  we get 
 After swapping  we get 
 So, we need a minimum of  swaps to sort the array in ascending order.
+
+
+
+
