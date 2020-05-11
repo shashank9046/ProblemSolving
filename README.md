@@ -53,7 +53,6 @@ Sample Input 1
 5
 2 3 4 1 5
 Sample Output 1
-
 3
 Explanation 1
 
